@@ -277,7 +277,7 @@
 		var cont int
 		var matrix [][]int
 		//inicialização das variavies
-		ordens = []int{3,5, 7, 9}
+		ordens = []int{3,5, 7, 9, 11}
 		numRepeticoes = 3
 		tempoBaseline = make([]int64, len(ordens))
 		tempoOtimizado = make([]int64, len(ordens))
